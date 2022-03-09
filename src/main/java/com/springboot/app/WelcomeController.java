@@ -17,5 +17,6 @@ public class WelcomeController {
 		return ws.serviceMessage();
 	}
 
+	//test
 }
 
