@@ -1,4 +1,4 @@
-package com.springboot.app;
+package com.springboot;
 
 
 import org.springframework.boot.SpringApplication;
